@@ -4,7 +4,7 @@ Brandon Trabucco (1), Max Gurinas (2), Kyle Doherty (3), Ruslan Salakhutdinov (1
 
 (1) Carnegie Mellon University, (2) University of Chicago Laboratory Schools, (3) MPG Ranch
 
-[Website](https://visual-words.github.io) &nbsp;|&nbsp; [Paper](https://arxiv.org/abs/%3CARXIV%20PAPER%20ID%3E) &nbsp;|&nbsp; [Code](https://github.com/visual-words/visual-words) &nbsp;|&nbsp; [BibTex](https://visual-words.github.io/static/bibtex.txt)
+[Website](https://visual-words.github.io) &nbsp;|&nbsp; [PDF](https://visual-words.github.io/static/understanding_visual_concepts_small.pdf) &nbsp;|&nbsp; [ArXiv](https://arxiv.org/abs/TBA) &nbsp;|&nbsp; [Code](https://github.com/visual-words/visual-words) &nbsp;|&nbsp; [BibTex](https://visual-words.github.io/static/bibtex.txt)
 
 ![teaser gif](images/teaser.gif)
 
