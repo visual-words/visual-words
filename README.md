@@ -4,7 +4,7 @@ Brandon Trabucco (1), Max Gurinas (2), Kyle Doherty (3), Ruslan Salakhutdinov (1
 
 (1) Carnegie Mellon University, (2) University of Chicago Laboratory Schools, (3) MPG Ranch
 
-[Website](https://visual-words.github.io) &nbsp;|&nbsp; [PDF](https://visual-words.github.io/static/understanding_visual_concepts_small.pdf) &nbsp;|&nbsp; [ArXiv](https://arxiv.org/abs/TBA) &nbsp;|&nbsp; [Code](https://github.com/visual-words/visual-words) &nbsp;|&nbsp; [BibTex](https://visual-words.github.io/static/bibtex.txt)
+[Website](https://visual-words.github.io) &nbsp;|&nbsp; [PDF](https://visual-words.github.io/static/understanding_visual_concepts_small.pdf) &nbsp;|&nbsp; [ArXiv](https://arxiv.org/abs/2406.07506) &nbsp;|&nbsp; [Code](https://github.com/visual-words/visual-words) &nbsp;|&nbsp; [BibTex](https://visual-words.github.io/static/bibtex.txt)
 
 ![teaser gif](images/teaser.gif)
 
@@ -27,7 +27,7 @@ Check back often, we are releasing in the next 2 weeks!
   title={Understanding Visual Concepts Across Models},
   author={Brandon Trabucco and Max Gurinas and Kyle Doherty and Ruslan Salakhutdinov},
   year={2024},
-  eprint={TBA},
+  eprint={2406.07506},
   archivePrefix={arXiv},
   primaryClass={cs.CV},
 }
